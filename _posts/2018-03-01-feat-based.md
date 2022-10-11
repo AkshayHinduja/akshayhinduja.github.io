@@ -2,9 +2,9 @@
 title  : "Feature-based SLAM for imaging sonar with under-constrained landmarks"
 author : "Eric Westman, <b>Akshay Hinduja</b>, Michael Kaess"
 journal: "ICRA 2018"
-imurl  : "/assets/images/eedvo-overview.jpg"
-teaserurl: "/assets/images/eedvo-teaser.png"
-paperurl: "/assets/pdf/eedvo.pdf"
+imurl  : "/assets/images/feat-based-overview.png"
+teaserurl: "/assets/images/feat-based-teaser.png"
+paperurl: "https://www.cs.cmu.edu/~kaess/pub/Westman18icra.pdf"
 categories: Publication
 ---
 
