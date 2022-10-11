@@ -1,6 +1,6 @@
 ---
-permalink: /publication/
-layout: publication
+permalink: /publications/
+layout: publications
 author_profile: true
 ---
 
