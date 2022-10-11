@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei's Homepage"
+title                    : "Akshay's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Wei Dong"
-description              : "Wei's Homepage"
+name                     : "Akshay Hinduja"
+description              : "Akshay's Homepage"
 url                      : #
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Dong"
+  name             : "Akshay Hinduja"
   avatar           : "/assets/images/me.jpg"
   bio              : "PhD student in robotics at CMU"
   location         : "Pittsburgh, PA"
@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:weidongATandrewDOTcmuDOTedu"
+      url: "mailto:ahindujaATandrewDOTcmuDOTedu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://dongwei.info"
@@ -124,10 +124,10 @@ author:
       url: "https://github.com/theNded"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
-      url: "https://scholar.google.com/citations?user=bIex4IQAAAAJ"
+      url: "https://scholar.google.com/citations?user=DMbcS88AAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/wei-dong-466729128/"
+      url: "https://www.linkedin.com/in/akshay-hinduja/"
 # Site Footer
 footer:
   links:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/theNded"
+      #url: "https://github.com/theNded"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "Scholar"
       icon: "fab fa-fw fa-scholar"
-      url: "https://scholar.google.com/citations?user=bIex4IQAAAAJ"        
+      url: "https://scholar.google.com/citations?user=DMbcS88AAAAJ&hl=en"        
 
 
 # Reading Files
