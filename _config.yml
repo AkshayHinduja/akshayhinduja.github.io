@@ -25,7 +25,7 @@ url                      : #
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/about_me.jpg"
-logo                     : "/assets/images/avatar.jpg"
+logo                     : "/assets/images/AkshayHinduja.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false
 words_per_minute         : 200
@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Akshay Hinduja"
-  avatar           : "/assets/images/me.jpg"
-  bio              : "PhD student in robotics at CMU"
+  avatar           : "/assets/images/AkshayHinduja.jpg"
+  bio              : "PhD student, Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   email            : 
   links:
@@ -112,7 +112,7 @@ author:
       url: "mailto:ahindujaATandrewDOTcmuDOTedu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://dongwei.info"
+      url: "https://akshayhinduja.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -121,7 +121,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/theNded"
+      #url: "https://github.com/AkshayHinduja"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
       url: "https://scholar.google.com/citations?user=DMbcS88AAAAJ&hl=en"
