@@ -30,6 +30,7 @@ Apart from research, I enjoy spending time outdoors, be it on foot or my mountai
 * Head TA for [24-370 Engineering Design I: Methods and Skills](s3.andrew.cmu.edu/sio/index.html#schedule-home).
 
 * Completed my subject and research PhD qualifiying exams!. 
+
 ### 2019
 * Attending IROS 2019 at Macao, China!.
 
