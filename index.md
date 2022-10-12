@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 ---
-
+![sliceoflife](/assets/images/sliceoflife.png)
 
 ## About me
 Hi! I am Akshay Hinduja, a PhD student at Carnegie Mellon University, advised by [Prof. Michael Kaess](https://www.cs.cmu.edu/~kaess/) at the [Robot Perception Lab](https://rpl.ri.cmu.edu/). I also obtained my Master's from CMU, advised by [Prof. Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html).
