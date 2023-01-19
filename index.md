@@ -15,6 +15,13 @@ Apart from research, I enjoy spending time outdoors, be it on foot or my mountai
 
 ## News
 
+### 2023
+* Reviewing for IEEE Transactions on Robotics (T-RO).
+
+* Our paper, "<i>Conditional GANs for Sonar Image Filtering with Applications to Underwater Occupancy Mapping</i>", has been accepted for ICRA 2023!. 
+
+* Reviewing for IEEE Transactions on Robotics (T-RO).
+
 ### 2022
 * Attending IROS 2022 in Kyoto, Japan!.
 
