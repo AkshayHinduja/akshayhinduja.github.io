@@ -31,6 +31,8 @@ Apart from research, I enjoy spending time outdoors, be it on foot or my mountai
 
 * Reviewing for IEEE Robotics and Automation Letters(RA-L).
 
+* Won the Milton Shaw Ph.D. research award from the department of Mechanical Engineering! 
+
 * Head TA for [24-787 Machine Learning and Artificial Intelligence for Engineers](https://www.meche.engineering.cmu.edu/education/courses/24-787.html).
 
 ### 2020
