@@ -11,6 +11,8 @@ I work on perception and SLAM, mainly for underwater robots. My interests lie in
 
 Apart from research, I enjoy spending time outdoors, be it on foot or my mountain bike! From time to time, I also enjoy painting, astrophotography and reading!
 
+I am currently in the final year of my program and looking for opportunities starting in summer 2024! 
+
 ![sliceoflife](/assets/images/sliceoflife.png)
 
 ## News
