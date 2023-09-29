@@ -18,7 +18,7 @@ I am currently in the final year of my program and looking for opportunities sta
 ## News
 
 ### 2023
-* Presenting a poster for our work "Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars" at IROS 2023, Detroit. We are presenting at two workshops, 2nd Advanced Marine Robotics and Closing the Loop on Localization. 
+* Presenting a poster for our work "SONIC: Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars" at IROS 2023, Detroit. We are presenting at two workshops, 2nd Advanced Marine Robotics and Closing the Loop on Localization. 
 
 * Reviewing for IEEE Transactions on Robotics (T-RO)
 
