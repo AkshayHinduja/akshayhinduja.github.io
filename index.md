@@ -16,6 +16,14 @@ Apart from research, I enjoy spending time outdoors, be it on foot or my mountai
 ## News
 
 ### 2023
+* Presenting a poster for our work "Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars" at IROS 2023, Detroit. We are presenting at two workshops, 2nd Advanced Marine Robotics and Closing the Loop on Localization. 
+
+* Reviewing for IEEE Transactions on Robotics (T-RO)
+
+* Reviewing for IEEE Journal of Ocean Engineering (JOE)
+
+* Presented my thesis proposal title "Underwater Localization and Mapping for Cost-Effective Robots". Got a couple of exciting projects in line to improve feature-based SLAM using imaging sonars!  
+
 * Reviewing for IEEE Transactions on Robotics (T-RO).
 
 * Our paper, "<i>Conditional GANs for Sonar Image Filtering with Applications to Underwater Occupancy Mapping</i>", has been accepted for ICRA 2023!. 
