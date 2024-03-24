@@ -16,6 +16,10 @@ I am currently in the final year of my program and looking for opportunities sta
 ![sliceoflife](/assets/images/sliceoflife.png)
 
 ## News
+### 2024
+* Our paper, "<i>SONIC: Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars</i>", has been accepted for ICRA 2024!. 
+
+* Reviewing for IEEE Intl. Conf. on Robotics and Automation (ICRA) 2024
 
 ### 2023
 * Presenting a poster for our work "SONIC: Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars" at IROS 2023, Detroit. We are presenting at two workshops, 2nd Advanced Marine Robotics and Closing the Loop on Localization. 
