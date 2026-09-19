@@ -2,8 +2,8 @@
 title   : "Multi-Radar Inertial Odometry for 3D State Estimation using mmWave Imaging Radar"
 author  : "Jui-Te Huang, Ruoyang Xu, <b>Akshay Hinduja</b>, Michael Kaess"
 journal : "ICRA 2024"
-teaserurl:            # add image later
-imurl   :             # add image later
+teaserurl: "/assets/images/multi-radar-overview.webp"
+imurl   : "/assets/images/multi-radar-overview.webp"
 paperurl: "https://arxiv.org/abs/2311.08608"
 categories: Publication
 ---
