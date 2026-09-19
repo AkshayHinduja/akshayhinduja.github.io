@@ -53,9 +53,16 @@ layout: default
         <p style="margin:0"><em>{{ page.journal}}</em><br><br></p>
         {% endif %}
     
-        {% if page.imurl %}
-        <img src="{{page.imurl}}" alt=""/>
-        {% endif %}        
+        {% if page.videourl and page.videourl != "" %}
+        <video class="pub-video" autoplay loop muted playsinline controls preload="metadata"{% if page.posterurl and page.posterurl != "" %} poster="{{ page.posterurl | relative_url }}"{% endif %}>
+          <source src="{{ page.videourl | relative_url }}" type="video/mp4">
+        </video>
+        {% elsif page.imurl and page.imurl != "" %}
+        <figure class="pub-figure">
+          <img src="{{page.imurl}}" alt="{{ page.imalt | default: '' }}"/>
+          {% if page.imcredit and page.imcredit != "" %}<figcaption>Image credit: {{ page.imcredit }}</figcaption>{% endif %}
+        </figure>
+        {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

@@ -1,0 +1,22 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign orgs = "MBARI|Carnegie Mellon University" | split: "|" %}
+{% for org in orgs %}
+  {% assign items = site.categories.Project | where: "org", org %}
+  {% if items.size == 0 %}{% continue %}{% endif %}
+  <section id="{{ org | slugify }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ org }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      {% for post in items %}
+        {% include archive-single.html type=entries_layout %}
+      {% endfor %}
+    </div>
+  </section>
+{% endfor %}
+
+<a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>

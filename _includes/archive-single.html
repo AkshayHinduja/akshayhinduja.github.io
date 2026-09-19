@@ -8,11 +8,17 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="pub-container">
 
-    {% if post.teaserurl %}
+    {% if post.videourl and post.videourl != "" %}
+      <div class="archive__item-teaser pub-left">
+        <video class="pub-video" autoplay loop muted playsinline preload="metadata"{% if post.posterurl and post.posterurl != "" %} poster="{{ post.posterurl | relative_url }}"{% endif %}>
+          <source src="{{ post.videourl | relative_url }}" type="video/mp4">
+        </video>
+      </div>
+    {% elsif post.teaserurl and post.teaserurl != "" %}
       <div class="archive__item-teaser pub-left">
         <img src="{{ post.teaserurl }}" alt="">
       </div>
-      {% endif %}
+    {% endif %}
 
     <div class="pub-right">
     <h3 class="archive__item-title no_toc" itemprop="headline">
@@ -26,18 +32,25 @@
     <p>{{ post.author}}</p>
     {% endif %}       
 
+    {% if post.role or post.period %}
+    <p><em>{{ post.role }}{% if post.role and post.period %} · {% endif %}{{ post.period }}</em><br><br></p>
+    {% endif %}
+
     {% if post.journal %}
     <p><em>{{ post.journal}}</em><br><br></p>
     {% endif %}        
 
     {% if post.paperurl %}
-    <a href="{{ post.paperurl }}" class="button">Paper</a>
+    <a href="{{ post.paperurl }}" class="button">{{ post.paperlabel | default: "Paper" }}</a>
     {% endif %}
     {% if post.codeurl %}
     <a href="{{ post.codeurl }}" class="button">Code</a>
     {% endif %}
     {% if post.tutorial %}
     <a href="{{ post.tutorial }}" class="button">Tutorial</a>
+    {% endif %}
+    {% if post.linkurl %}
+    <a href="{{ post.linkurl | relative_url }}" class="button">{{ post.linklabel | default: "Link" }}</a>
     {% endif %}
 
 

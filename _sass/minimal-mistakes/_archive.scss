@@ -482,12 +482,36 @@
 }
 
 .pub-left {
-  width: 30%;
+  flex: 0 0 30%;
   padding-right: 2%;
 }
 
 .pub-right {
-  width: 68%;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.pub-video {
+  display: block;
+  width: 100%;
+  border-radius: $border-radius;
+}
+
+.pub-figure {
+  display: block;
+  margin: 0 0 1.5em 0;
+
+  img {
+    display: block;
+    width: 100%;
+  }
+
+  figcaption {
+    margin-top: 0.5em;
+    font-size: $type-size-6;
+    text-align: right;
+    color: $muted-text-color;
+  }
 }
 
 .pub-right a.button {

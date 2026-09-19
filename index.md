@@ -1,23 +1,30 @@
 ---
+title: "About me"
 layout: single
 author_profile: true
 ---
 
 
-## About me
-Hi! I am Akshay Hinduja, a PhD student at Carnegie Mellon University, advised by [Prof. Michael Kaess](https://www.cs.cmu.edu/~kaess/) at the [Robot Perception Lab](https://rpl.ri.cmu.edu/). I also obtained my Master's from CMU, advised by [Prof. Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html).
+Hi! I am Akshay Hinduja, a Software Engineer for Embedded Data and Algorithms in the Software Engineering - Embedded group at MBARI, the Monterey Bay Aquarium Research Institute, in Moss Landing, CA.
 
-I work on perception and SLAM, mainly for underwater robots. My interests lie in the development of field robots to achieve autonomy. My current focus is on making cheaper underwater robots perform as robustly as their far more expensive counterparts. 
+I completed my PhD in Robotics from the Department of Mechanical Engineering at Carnegie Mellon University in July 2024, advised by [Prof. Michael Kaess](https://www.cs.cmu.edu/~kaess/) at the [Robot Perception Lab](https://rpl.ri.cmu.edu/). I also obtained my Master's from CMU, advised by [Prof. Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html).
 
-Apart from research, I enjoy spending time outdoors, be it on foot or my mountain bike! From time to time, I also enjoy painting, astrophotography and reading!
+I build perception and SLAM systems for underwater robots. My work covers embedded vision and AI that runs on the vehicles, drivers for cameras and acoustic sensors, and localization in GPS-denied environments. You can read about my engineering work on the [Projects](/projects/) page and my papers on the [Publications](/publication/) page.
 
-I am currently in the final year of my program and looking for opportunities starting in summer 2024! 
+Apart from getting robots to do cool things, I enjoy spending time with my wife and daughter, taking her out on adventures whether on foot or on my mountain bike!
 
 ![sliceoflife](/assets/images/sliceoflife.png)
 
 ## News
+<!-- ### 2025 / 2026: add news items here -->
 ### 2024
-* Our paper, "<i>SONIC: Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars</i>", has been accepted for ICRA 2024!. 
+* Joined MBARI as a Software Engineer for Embedded Data and Algorithms in the Software Engineering - Embedded group (July 2024).
+
+* Completed my PhD at Carnegie Mellon University with the thesis "<i>Underwater Localization and Mapping for Cost-Effective Robots</i>" (July 2024).
+
+* Our paper, "<i>Multi-Radar Inertial Odometry for 3D State Estimation using mmWave Imaging Radar</i>", has been accepted for ICRA 2024!
+
+* Our paper, "<i>SONIC: Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars</i>", has been accepted for ICRA 2024! 
 
 * Reviewing for IEEE Intl. Conf. on Robotics and Automation (ICRA) 2024
 

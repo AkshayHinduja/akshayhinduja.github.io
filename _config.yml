@@ -20,7 +20,7 @@ title                    : "Akshay's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Akshay Hinduja"
-description              : "Akshay's Homepage"
+description              : "Akshay Hinduja - robotics and perception engineer at MBARI"
 url                      : #
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,13 +103,13 @@ analytics:
 author:
   name             : "Akshay Hinduja"
   avatar           : "/assets/images/AkshayHinduja2.jpeg"
-  bio              : "PhD student, Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "Software Engineer, MBARI"
+  location         : "Moss Landing, CA"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ahindujaATandrewDOTcmuDOTedu"
+      url: "mailto:akshay.hinduja208@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://akshayhinduja.github.io"
@@ -121,7 +121,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/AkshayHinduja"
+      url: "https://github.com/AkshayHinduja"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
       url: "https://scholar.google.com/citations?user=DMbcS88AAAAJ&hl=en"
@@ -185,6 +185,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - CVs
 keep_files:
   - .git
   - .svn
